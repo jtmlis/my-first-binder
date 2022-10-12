@@ -1,2 +1,4 @@
+bamboolib
+matplotlib
 numpy>=1.14.5
 pandas
